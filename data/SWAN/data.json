@@ -1,9 +1,9 @@
 {
   "chainId": 2024,
-  "address": "0x0469dFb82A816C5F0a566625Cec09216A721E90e",
+  "address": "0x91B25A65b295F0405552A4bbB77879ab5e38166c",
   "name": "Swan Token",
   "symbol": "SWAN",
   "decimals": 18,
-  "logoURI": "https://.github.io/data/SWAN/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/Mie-Protocol/token-list/main/data/SWAN/logo.png",
   "extensions": {}
 }

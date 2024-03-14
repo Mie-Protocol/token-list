@@ -1,7 +1,12 @@
 {
   "name": "Mie Token List",
-  "keywords": ["scaling", "layer2", "infrastructure", "token-list"],
+  "keywords": ["scaling", "layer2", "infrastructure"],
   "timestamp": "2024-03-08T21:31:24.939Z",
+  "version": {
+    "major": 9,
+    "minor": 0,
+    "patch": 50
+  },
   "tokens": [
     {
       "chainId": 2024,

@@ -25,6 +25,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Mie-Protocol/token-list/main/data/USDT/logo.png",
       "extensions": {}
+    },
+    {
+      "chainId": 2024,
+      "address": "0x14b5D4076A55596f5403691E9AA2faBe68e530CC",
+      "name": "Wrapped ETHER",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Mie-Protocol/token-list/main/data/WETH/logo.png",
+      "extensions": {}
     }
   ]
 }

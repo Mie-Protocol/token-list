@@ -1,7 +1,7 @@
 {
   "chainId": 2024,
   "address": "0x4D025605eA6a069857002e4548e2ae22c9E6c0Df",
-  "name": "USD Token",
+  "name": "USD Tether",
   "symbol": "USDT",
   "decimals": 18,
   "logoURI": "https://raw.githubusercontent.com/Mie-Protocol/token-list/main/data/USDT/logo.png",
